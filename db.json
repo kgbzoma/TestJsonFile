@@ -1,11 +1,11 @@
 {
 	"all":[{
-	"Email": "kgbzoma@gmail.com",
-	"Active": true,
-	"Roles":[
+	{"Email": "kgbzoma@gmail.com"},
+	{"Active": true},
+	{"Roles":[
 		"User",
 		"Admin"
-		],
-	"Numberphone": "666999444"
+		]},
+	{"Numberphone": "666999444"}
 }]
 }
