@@ -2,7 +2,7 @@
 	"Email": "kgbzoma@gmail.com",
 	"Active": true,
 	"Roles":[
-		"User"
+		"User",
 		"Admin"
 		],
 	"Number_phone": "666999444"
