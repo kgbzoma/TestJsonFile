@@ -1,4 +1,4 @@
-{
+{"all":{
 	"Email": "kgbzoma@gmail.com",
 	"Active": true,
 	"Roles":[
@@ -6,4 +6,5 @@
 		"Admin"
 		],
 	"Numberphone": "666999444"
+}
 }
