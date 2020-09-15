@@ -1,0 +1,34 @@
+{
+   "herbs":[
+      {
+         "nazwa":"jakiestam",
+         "opis":"ladny kwiatek",
+         "typ":[
+            "gazowy",
+            "stały"
+         ]
+      },
+      {
+         "nazwa":"inne",
+         "opis":"brzydki kwiatek",
+         "typ":[
+            "gazowy",
+            "stały"
+         ]
+      },
+      {
+         "nazwa":"jeszcze inne",
+         "opis":"sredni kwiatek",
+         "typ":[
+            "gazowy"
+         ]
+      },
+      {
+         "nazwa":"inne",
+         "opis":"brzydki kaktus",
+         "typ":[
+            "stały"
+         ]
+      }
+   ]
+}
